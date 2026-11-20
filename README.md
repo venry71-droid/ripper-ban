@@ -1,1 +1,1 @@
-# ripper-ban
+# ripper-ban-bot
