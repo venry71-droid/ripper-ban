@@ -1,0 +1,6 @@
+__pycache__/
+*.json
+*.txt
+*.backup
+ripper-v*-backup.py
+ripper-v*-pre-7.py
